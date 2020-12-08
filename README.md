@@ -16,7 +16,7 @@ Find out more about UniCode 2020 [here](https://www.showcode.io/unicode/).
 7        | TBC            | Feb 15th - Mar 1st  |                    |       | 
 8        | TBC            | Mar 1st - Mar 15th  |                    |       | 
 9        | TBC            | Mar 15th - Mar 29th |                    |       | 
-10       | TBC            | Mar 29th - Mar 12th |                    |       | 
+10       | TBC            | Mar 29th - Apr 12th |                    |       | 
 11       | TBC            | Apr 12th - Apr 26th |                    |       | 
 12       | TBC            | Apr 26th - May 10th |                    |       | 
 13       | TBC            | May 10th - May 24th |                    |       | 

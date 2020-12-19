@@ -8,7 +8,7 @@ Find out more about UniCode 2020 [here](https://www.showcode.io/unicode/).
 :pencil: | Challange Name | Dates Open          | Completed?         | Score | Completion Time
 ---------|----------------|---------------------|--------------------|-------|------------------
 1        | Ready Player X | Nov 23rd - Dec 7th  | :white_check_mark: | 100%  | 01:25:36.1180000
-2        | Devvie         | Dec 7th - Dec 21st  |                    |       | 
+2        | Devvie         | Dec 7th - Dec 21st  | :white_check_mark: | 100%  | 00:16:42.8270000
 3        | TBC            | Dec 21st - Jan 4th  |                    |       | 
 4        | TBC            | Jan 4th - Jan 18th  |                    |       | 
 5        | TBC            | Jan 18th - Feb 1st  |                    |       | 

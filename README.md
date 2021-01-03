@@ -9,8 +9,8 @@ Find out more about UniCode 2020 [here](https://www.showcode.io/unicode/).
 ---------|----------------|---------------------|--------------------|-------|------------------
 1        | Ready Player X | Nov 23rd - Dec 7th  | :white_check_mark: | 100%  | 01:25:36.1180000
 2        | Devvie         | Dec 7th - Dec 21st  | :white_check_mark: | 100%  | 00:16:42.8270000
-3        | TBC            | Dec 21st - Jan 4th  | :white_check_mark: |  53%  | 01:37:24.9900000
-4        | TBC            | Jan 4th - Jan 18th  |                    |       | 
+3        | Snowcode       | Dec 21st - Jan 4th  | :white_check_mark: |  53%  | 01:37:24.9900000
+4        | Attack Cleanup | Jan 4th - Jan 18th  |                    |       | 
 5        | TBC            | Jan 18th - Feb 1st  |                    |       | 
 6        | TBC            | Feb 1st - Feb 15th  |                    |       | 
 7        | TBC            | Feb 15th - Mar 1st  |                    |       | 

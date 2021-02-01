@@ -21,3 +21,23 @@ J -> I, J -> K
 For example, the strings CAT and SAD are adjacent as C -> D, A -> A and T -> S.
 
 You can assume both the key and token contain only uppercase letters.
+
+## Test Cases
+
+Public | Can handle two simple, adjacent strings.
+
+Public | Can handle two simple, non-adjacent strings.
+
+1 Pts | Can handle handle two identical individual letters.
+
+1 Pts | Can handle longer adjacent strings
+
+2 Pts | Can handle strings with multiple repeat letters.
+
+1 Pts | Can handle two individual letters that aren't adjacent.
+
+1 Pts | Can handle two individual letters that are adjacent.
+
+3 Pts | Can handle A and Z which are not adjacent.
+
+4 Pts | Can handle scenario where one character has multiple adjacent and the other only has one.

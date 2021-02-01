@@ -17,3 +17,17 @@ Just something to be aware of - the original data is GCAT sequences - only conta
 
 
 `cgtctcctgaccccagagcaggtcgtggcaatcgcgagcaataacggcggaaaacaggctttggaaacggtgcagaggctccttccagtgctgtgccaagcgcacggactcaccccagagcaggtcgtggcgatcgcaagccacgacggaggaaagcaagccttggaaacagtacagaggctgttgcctgtgctgtgccaagcgcacggcctcaccccagagcaggtcgtggcaatcgcctccaacattggcgggaaacaggcactcgagactgtccagcgcctgcttcccgtgctgtgccaagcgcacggattaaccccagagcaggtcgtggccattgcctcgaatggagggggcaaacaggcgttggaaaccgtacaacgattgctgccggtgctgtgccaagcgcacggcttaagagacg`
+
+## Test Cases
+
+Public | Successfully decodes genetic data 1
+
+Public | Successfully decodes genetic data 2
+
+6 Pts | Successfully decodes genetic data 3
+
+5 Pts | Successfully decodes genetic data with no repeats
+
+1 Pts | An empty input results in an empty output
+
+3 Pts | Check that non alpha-numeric characters are stripped

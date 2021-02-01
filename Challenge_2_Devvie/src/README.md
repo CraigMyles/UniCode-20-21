@@ -1,3 +1,5 @@
+## Challenge Details
+
 *#BEGIN_E2E_COMMS#*
 
 
@@ -40,3 +42,23 @@ An unhandled command: Sometimes my controllers provide me with unhandled paramet
 
 
 *#END_E2E_COMMS#*
+
+## Test Cases
+
+Public | Check that RF returns 3.
+
+Public | Check that FxLxLxFx returns 0.
+
+1 Pts | Check that FFF returns 5.
+
+1 Pts | Check that RRR returns 0.
+
+3 Pts | Check that FFLFRF returns 6.
+
+3 Pts | Check that FFFLF returns 6.
+
+3 Pts | Check that LFFRFRFFFF returns 5.
+
+2 Pts | Check that lower case letters are ignored.
+
+2 Pts | Check that spaces and junk are ignored.

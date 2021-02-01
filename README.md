@@ -11,7 +11,7 @@ Find out more about UniCode 2020 [here](https://www.showcode.io/unicode/).
 2        | [Devvie][2]        | Dec 7th - Dec 21st  | :white_check_mark: | 100%  | 00:16:42.8270000
 3        | [Snowcode][3]      | Dec 21st - Jan 4th  | :white_check_mark: |  53%  | 01:37:24.9900000
 4        | [Attack Cleanup][4]| Jan 4th - Jan 18th  | :white_check_mark: |  80%  | 00:22:27.6010000
-5        | Fraud Alert        | Jan 18th - Feb 1st  | :white_check_mark: | 100%  | 01:17:39.2680000
+5        | [Fraud Alert][5]   | Jan 18th - Feb 1st  | :white_check_mark: | 100%  | 01:17:39.2680000
 6        | Strike             | Feb 1st - Feb 15th  |                    |       | 
 7        | TBC                | Feb 15th - Mar 1st  |                    |       | 
 8        | TBC                | Mar 1st - Mar 15th  |                    |       | 
@@ -52,3 +52,4 @@ Don’t worry, you can still qualify for the individual finale if your team does
 [2]:https://github.com/CraigMyles/UniCode-20-21/blob/main/Challenge_2_Devvie/src/main.java
 [3]:https://github.com/CraigMyles/UniCode-20-21/blob/main/Challenge_3_Snowcode/src/main3.java
 [4]:https://github.com/CraigMyles/UniCode-20-21/blob/main/Challenge_4_Attack_Cleanup/src/main.java
+[5]:https://github.com/CraigMyles/UniCode-20-21/blob/main/Challenge_5_Fraud_Alert/src/main.java

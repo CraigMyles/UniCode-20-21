@@ -51,3 +51,35 @@ I'll make sure you go on the good list for this one.
 
 
 S.C.
+
+## Test Cases
+
+Public | Can successfully identify the user in a single recipient message.
+
+Public | Can successfully identify the second user in a two recipient message.
+
+1 Pts | Can successfully identify the third user in a three recipient message.
+
+1 Pts | When an invalid character exists within a username, just the valid part of the username should be detected.
+
+1 Pts | Can successfully handle an out of bounds recipientNumber parameter.
+
+1 Pts | Can successfully identify users in a message containing hashtags.
+
+1 Pts | Can successfully identify an unconventional username.
+
+1 Pts | Can successfully identify a username containing numbers.
+
+1 Pts | Can successfully identify a username containing numbers and special characters.
+
+1 Pts | Can successfully identify a username after a URL.
+
+1 Pts | Can handle an input with no valid recipients.
+
+1 Pts | Can handle usernames with a superfluous @ identifier.
+
+1 Pts | Can handle an input containing a '@' character and not treat it as a username.
+
+2 Pts | Can handle an input containing a valid email address and not treat it is a username.
+
+2 Pts | Can handle an input containing an invalid email address and apply the standard username identification rules to the value.

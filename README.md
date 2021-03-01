@@ -13,8 +13,8 @@ Find out more about UniCode 2020 [here](https://www.showcode.io/unicode/).
 4        | [Attack Cleanup][4]| Jan 4th - Jan 18th  | :white_check_mark: |  80%  | 00:22:27.6010000
 5        | [Fraud Alert][5]   | Jan 18th - Feb 1st  | :white_check_mark: | 100%  | 01:17:39.2680000
 6        | [Strike][6]        | Feb 1st - Feb 15th  | :white_check_mark: |  71%  | 02:04:14.9560000
-7        | Crack The Code     | Feb 15th - Mar 1st  |                    |       | 
-8        | TBC                | Mar 1st - Mar 15th  |                    |       | 
+7        | [Crack The Code][7]| Feb 15th - Mar 1st  | :white_check_mark: | 100%  | 00:26:37.5010000
+8        | Alaric's Treasure  | Mar 1st - Mar 15th  |                    |       | 
 9        | TBC                | Mar 15th - Mar 29th |                    |       | 
 10       | TBC                | Mar 29th - Apr 12th |                    |       | 
 11       | TBC                | Apr 12th - Apr 26th |                    |       | 
@@ -54,3 +54,4 @@ Don’t worry, you can still qualify for the individual finale if your team does
 [4]:https://github.com/CraigMyles/UniCode-20-21/blob/main/Challenge_4_Attack_Cleanup/src/main.java
 [5]:https://github.com/CraigMyles/UniCode-20-21/blob/main/Challenge_5_Fraud_Alert/src/main.java
 [6]:https://github.com/CraigMyles/UniCode-20-21/blob/main/Challenge_6_Strike/src/main.java
+[7]:https://github.com/CraigMyles/UniCode-20-21/blob/main/Challenge_7_Crack_The_/src/main.java
